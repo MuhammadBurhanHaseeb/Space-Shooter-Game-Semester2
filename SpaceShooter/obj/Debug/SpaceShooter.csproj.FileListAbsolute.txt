@@ -1,0 +1,18 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\tasks2\projects with pillers\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
